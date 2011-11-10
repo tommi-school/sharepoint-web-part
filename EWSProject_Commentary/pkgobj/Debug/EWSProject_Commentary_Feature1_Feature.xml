@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="My Visual WebPart Feature" Id="a32d9787-44b3-4c4d-bdfc-4ed49a95b396" Scope="Site" Title="EWSProject_Commentary Feature1">
+  <ElementManifests>
+    <ElementManifest Location="Commentary\Elements.xml" />
+    <ElementFile Location="Commentary\Commentary.webpart" />
+  </ElementManifests>
+</Feature>

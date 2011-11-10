@@ -1,0 +1,10 @@
+C:\ews\wp\EWSProject_Commentary\EWSProject_Commentary\bin\Debug\EWSProject_Commentary.dll
+C:\ews\wp\EWSProject_Commentary\EWSProject_Commentary\bin\Debug\EWSProject_Commentary.pdb
+C:\ews\wp\EWSProject_Commentary\EWSProject_Commentary\obj\Debug\ResolveAssemblyReference.cache
+C:\ews\wp\EWSProject_Commentary\EWSProject_Commentary\obj\Debug\EWSProject_Commentary.dll
+C:\ews\wp\EWSProject_Commentary\EWSProject_Commentary\obj\Debug\EWSProject_Commentary.pdb
+C:\ews\project\Tommi-WebPart\EWSProject_Commentary\EWSProject_Commentary\bin\Debug\EWSProject_Commentary.dll
+C:\ews\project\Tommi-WebPart\EWSProject_Commentary\EWSProject_Commentary\bin\Debug\EWSProject_Commentary.pdb
+C:\ews\project\Tommi-WebPart\EWSProject_Commentary\EWSProject_Commentary\obj\Debug\ResolveAssemblyReference.cache
+C:\ews\project\Tommi-WebPart\EWSProject_Commentary\EWSProject_Commentary\obj\Debug\EWSProject_Commentary.dll
+C:\ews\project\Tommi-WebPart\EWSProject_Commentary\EWSProject_Commentary\obj\Debug\EWSProject_Commentary.pdb

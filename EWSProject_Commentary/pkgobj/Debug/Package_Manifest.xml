@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="01d3a047-bd64-4c60-9122-aa26146b3fa0" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="EWSProject_Commentary.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="EWSProject_Commentary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=859c273d303efeae" Namespace="EWSProject_Commentary.Commentary" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\EWSProject_Commentary\Commentary\CommentaryUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="EWSProject_Commentary_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

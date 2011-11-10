@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="01d3a047-bd64-4c60-9122-aa26146b3fa0" solutionId="01d3a047-bd64-4c60-9122-aa26146b3fa0" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="EWSProject_Commentary">
+    <features>
+        <featureReference itemId="a32d9787-44b3-4c4d-bdfc-4ed49a95b396" />
+    </features>
+</package>
